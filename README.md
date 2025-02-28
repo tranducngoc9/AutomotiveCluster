@@ -1,8 +1,9 @@
-### Installing ###
+### Running ###
 
-1. Install dependencies
-2. qmake
-3. make -j8
+cd AutomotiveCluster
+qmake automotive-cluster-2d.pro -o build/Makefile
+make -C /build
+./build/automotive-cluster-2d
 
 ### Dependencies ###
 
