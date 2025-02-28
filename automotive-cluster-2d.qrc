@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/battery_label.png</file>
+        <file>images/battery.png</file>
+        <file>images/bg_charge.jpg</file>
+        <file>images/car_bg.jpg</file>
+        <file>images/MusicPlayer_CircleRemaining.png</file>
+        <file>images/MusicPlayer_Cover.png</file>
+        <file>images/Icon_TurnLeft_OFF.png</file>
+        <file>images/Gauge_RPM.png</file>
+        <file>images/Gauge_Speed.png</file>
+        <file>images/DashboardFrameSport-mask.png</file>
+        <file>images/Icon_TurnLeft_ON.png</file>
+        <file>images/Icon_TurnLeft_OFF.png</file>
+        <file>images/car_body.png</file>
+        <file>images/fuel.png</file>
+        <file>images/seatbelt.png</file>
+        <file>images/TempWarning.png</file>
+        <file>images/batteryWarning.png</file>
+        <file>images/highBeam.png</file>
+        <file>images/brakeWarnSignal.png</file>
+        <file>images/engineFailure.png</file>
+        <file>images/NavigationMap.jpg</file>
+    </qresource>
+</RCC>
