@@ -1,9 +1,9 @@
 ### Running ###
 
-cd AutomotiveCluster
-qmake automotive-cluster-2d.pro -o build/Makefile
-make -C /build
-./build/automotive-cluster-2d
+- cd AutomotiveCluster
+- qmake automotive-cluster-2d.pro -o build/Makefile
+- make -C /build
+- ./build/automotive-cluster-2d
 
 ### Dependencies ###
 
